@@ -1102,7 +1102,7 @@ footer {
    .fivegoals-image-left {
      align-self: center;
    }
-}
+
 #product-main {
   height: 256px;
   margin-top: 4%;
@@ -1114,7 +1114,7 @@ footer {
   background-size: cover;
 
 }
-#product-tirle {
+#product-title {
   width: 136px;
   height: 256px;
   position: absolute;
@@ -1134,7 +1134,7 @@ footer {
   left: 20px;
   font-size: 13px;
 }
-. /* セクション */
+  /* セクション */
    .product-section {
      flex-direction: column;
    }
@@ -1168,6 +1168,7 @@ footer {
      order: 2;
      width: 100%;
    }
+  }
 
 
 
